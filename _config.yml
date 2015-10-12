@@ -1,0 +1,12 @@
+# Site settings
+title: Alex Vance
+email: herdadvance@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about front-end web development.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://alex-vance.com" # the base hostname & protocol for your site
+twitter_username: ADVance645
+github_username:  HerdADVance
+
+# Build settings
+markdown: kramdown
